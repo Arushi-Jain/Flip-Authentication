@@ -3,9 +3,9 @@
 Default Login page which flips(rotates) to a sign up for a new user.
 
 ## Demo
-```
+
 ![](demo.gif)
-```
+
 ## Installing
 
 Download the package from npm.
