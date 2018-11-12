@@ -4,7 +4,7 @@ Default Login page which flips(rotates) to a sign up for a new user.
 
 ## Demo
 
-![](demo.gif)
+![](Demo.gif)
 
 ## Installing
 
