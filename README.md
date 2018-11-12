@@ -5,7 +5,7 @@ Default Login page which flips(rotates) to a sign up for a new user.
 ## Demo
 
 ```
-npm i flipauthentication
+![](demo.gif)
 ```
 
 ## Installing
